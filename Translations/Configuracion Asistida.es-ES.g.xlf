@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="Configuracion Asistida">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1375413818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Extension</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1375413818 - Field 3579619835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination Warehouse</source>
+          <target state="translated">Almacén de destino</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Almacén de destino"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup Extension - Field Destination Warehouse - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1375413818 - Field 2894404144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum Date</source>
+          <target state="translated">Fecha máxima</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha máxima"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup Extension - Field Maximum Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1375413818 - Field 1968740535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity of Days</source>
+          <target state="translated">Cantidad de días</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Cantidad de días"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Setup Extension - Field Quantity of Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917031916 - Method 2227096088 - NamedType 1582893390" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Extension</source>
+          <target state="translated">Configuración extensión</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Configuración extensión"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Setup Extension Mgt - Method C1990_OnRegisterAssistedSetup - NamedType TitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3917031916 - Method 2227096088 - NamedType 3569966352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is an assisted setup test</source>
+          <target state="translated">Esto es una prueba de configuración asistida</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Esto es una prueba de configuración asistida"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Setup Extension Mgt - Method C1990_OnRegisterAssistedSetup - NamedType DescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2835768577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Customer </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Custom Customer  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1375413818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Extension</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1375413818 - Control 3579619835 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the field</source>
+          <target state="translated">Especifica el valor del campo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el valor del campo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup Extension - Control Destination Warehouse - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1375413818 - Control 2894404144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the field</source>
+          <target state="translated">Especifica el valor del campo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el valor del campo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup Extension - Control Maximum Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1375413818 - Control 1968740535 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the field</source>
+          <target state="translated">Especifica el valor del campo</target>
+          <note from="Developer" annotates="general" priority="2">ESP="Especifica el valor del campo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup Extension - Control Quantity of Days - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 4088713267 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PermissionSet</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet PermissionSet - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
