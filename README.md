@@ -1,2 +1,2 @@
-# simple-template-bc
-Plantilla Base para los desarrollos en BC
+# Configuracion Asistida
+Proyecto para la creación de la configuración asistida
